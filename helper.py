@@ -52,6 +52,7 @@ def CreateDataFolder(raw_data_dir = 'raw_data', dataset_dir = 'dataset',
         splitFolder = ['train', 'val']
 
     if not os.path.isdir(dataset_dir) :
+        print(f'creating {dataset_dir} folder ...')
         os.makedirs(dataset_dir)
         for folder in splitFolder :
             os.makedirs(os.path.join(dataset_dir, folder))
