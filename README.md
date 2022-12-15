@@ -3,6 +3,7 @@
 - You can have a custom image classifier model with just a few clicks.
 - train on google colab with free GPU.
 - This is an example model that I've deploy on **[Hugging Face](https://huggingface.co/spaces/NickyGenN1/ImageClassification)**
+- see result model on **[Youtube](https://www.youtube.com/shorts/KtvL1A6NC8g)**
 ![Screenshot (596)](https://user-images.githubusercontent.com/97141979/204102243-f56aded2-dd83-403a-a528-c9a7c643001f.png)
 ## follow the steps :
 1. download this repository : click code > download zip
